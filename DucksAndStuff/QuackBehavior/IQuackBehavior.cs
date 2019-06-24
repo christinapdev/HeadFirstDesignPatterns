@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DucksAndStuff
+namespace Ch1StrategyPattern
 {
     public interface IQuackBehavior
     {

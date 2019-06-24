@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DucksAndStuff.FlyBehavior
+namespace Ch1StrategyPattern.FlyBehavior
 {
     public class FlyRocketPowered : IFlyBehavior
     {

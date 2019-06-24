@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EB1D5529-0985-4FE2-A9DC-EE1ADDA4C604}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DucksAndStuff</RootNamespace>
-    <AssemblyName>DucksAndStuff</AssemblyName>
+    <RootNamespace>Ch1StrategyPattern</RootNamespace>
+    <AssemblyName>Ch1-StrategyPattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

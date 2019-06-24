@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DucksAndStuff", "DucksAndStuff\DucksAndStuff.csproj", "{EB1D5529-0985-4FE2-A9DC-EE1ADDA4C604}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1-StategyPattern", "DucksAndStuff\Ch1-StategyPattern.csproj", "{EB1D5529-0985-4FE2-A9DC-EE1ADDA4C604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2-ObserverPattern", "Ch2-ObserverPattern\Ch2-ObserverPattern.csproj", "{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EB1D5529-0985-4FE2-A9DC-EE1ADDA4C604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1D5529-0985-4FE2-A9DC-EE1ADDA4C604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1D5529-0985-4FE2-A9DC-EE1ADDA4C604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

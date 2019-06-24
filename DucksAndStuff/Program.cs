@@ -1,7 +1,7 @@
-﻿using DucksAndStuff.FlyBehavior;
+﻿using Ch1StrategyPattern.FlyBehavior;
 using System;
 
-namespace DucksAndStuff
+namespace Ch1StrategyPattern
 {
     class Program
     {

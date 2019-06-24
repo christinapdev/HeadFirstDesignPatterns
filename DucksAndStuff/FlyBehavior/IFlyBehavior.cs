@@ -1,4 +1,4 @@
-﻿namespace DucksAndStuff
+﻿namespace Ch1StrategyPattern
 {
     public interface IFlyBehavior
     {

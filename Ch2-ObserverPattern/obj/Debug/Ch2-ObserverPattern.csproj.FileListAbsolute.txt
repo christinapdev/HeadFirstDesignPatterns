@@ -1,0 +1,7 @@
+C:\Users\18155\source\repos\DucksAndStuff\Ch2-ObserverPattern\bin\Debug\Ch2-ObserverPattern.exe.config
+C:\Users\18155\source\repos\DucksAndStuff\Ch2-ObserverPattern\bin\Debug\Ch2-ObserverPattern.exe
+C:\Users\18155\source\repos\DucksAndStuff\Ch2-ObserverPattern\bin\Debug\Ch2-ObserverPattern.pdb
+C:\Users\18155\source\repos\DucksAndStuff\Ch2-ObserverPattern\obj\Debug\Ch2-ObserverPattern.csprojAssemblyReference.cache
+C:\Users\18155\source\repos\DucksAndStuff\Ch2-ObserverPattern\obj\Debug\Ch2-ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\18155\source\repos\DucksAndStuff\Ch2-ObserverPattern\obj\Debug\Ch2-ObserverPattern.exe
+C:\Users\18155\source\repos\DucksAndStuff\Ch2-ObserverPattern\obj\Debug\Ch2-ObserverPattern.pdb

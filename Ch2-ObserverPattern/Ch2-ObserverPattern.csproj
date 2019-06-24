@@ -7,7 +7,7 @@
     <ProjectGuid>{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ch2_ObserverPattern</RootNamespace>
-    <AssemblyName>Ch2_ObserverPattern</AssemblyName>
+    <AssemblyName>Ch2-ObserverPattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

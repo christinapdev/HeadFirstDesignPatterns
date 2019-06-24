@@ -1,7 +1,7 @@
-﻿using DucksAndStuff.QuackBehavior;
+﻿using Ch1StrategyPattern.QuackBehavior;
 using System;
 
-namespace DucksAndStuff
+namespace Ch1StrategyPattern
 {
     public class MallardDuck : Duck
     {

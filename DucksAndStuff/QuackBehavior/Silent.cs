@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DucksAndStuff.QuackBehavior
+namespace Ch1StrategyPattern.QuackBehavior
 {
     class Silent : IQuackBehavior
     {
