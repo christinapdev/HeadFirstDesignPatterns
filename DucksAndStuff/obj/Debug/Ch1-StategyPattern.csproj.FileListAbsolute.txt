@@ -1,6 +1,0 @@
-C:\Users\18155\source\repos\DucksAndStuff\DucksAndStuff\bin\Debug\DucksAndStuff.exe.config
-C:\Users\18155\source\repos\DucksAndStuff\DucksAndStuff\bin\Debug\DucksAndStuff.exe
-C:\Users\18155\source\repos\DucksAndStuff\DucksAndStuff\bin\Debug\DucksAndStuff.pdb
-C:\Users\18155\source\repos\DucksAndStuff\DucksAndStuff\obj\Debug\Ch1-StategyPattern.csproj.CoreCompileInputs.cache
-C:\Users\18155\source\repos\DucksAndStuff\DucksAndStuff\obj\Debug\DucksAndStuff.exe
-C:\Users\18155\source\repos\DucksAndStuff\DucksAndStuff\obj\Debug\DucksAndStuff.pdb
