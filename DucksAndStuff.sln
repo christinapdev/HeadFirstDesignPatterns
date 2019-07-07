@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1-StategyPattern", "Ducks
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2-ObserverPattern", "Ch2-ObserverPattern\Ch2-ObserverPattern.csproj", "{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1-StrategyPatternPuzzle", "Ch1-StrategyPatternPuzzle\Ch1-StrategyPatternPuzzle.csproj", "{EF5D998C-DC51-4F7B-93BC-4777CD436A7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11C3CA5A-0DA2-41C2-8694-55B65B4CA858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5D998C-DC51-4F7B-93BC-4777CD436A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5D998C-DC51-4F7B-93BC-4777CD436A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5D998C-DC51-4F7B-93BC-4777CD436A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5D998C-DC51-4F7B-93BC-4777CD436A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
